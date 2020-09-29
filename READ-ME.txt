@@ -1,0 +1,29 @@
+HOW TO CONFIGURE:
+
+Basically you will need a txt file called "DicionarioLista.txt"
+in your documents directory, otherwise it will not work.
+
+If you were confused, open the steps folder and follow the images, at the end there will be a
+txt file identical to the one mentioned above, copy and paste it in the documents directory.
+
+HOW TO USE:
+
+You can basically add words, and their translations.
+the program will write to a txt file called "DicionarioLista.txt".
+
+You can also search for a word that you have previously stored.
+The program will quickly return the result to the screen.
+
+You can also delete, either by typing something in the bar below the list, or by
+selecting and pressing remove.
+
+FUTURE THINGS:
+
+The list on the side, called description in the future will be functional, so you can
+can not only store the words and translations but also their descriptions
+personal information about them.
+
+
+Right now, I hope you make good use of the program, and that it helps you a lot.
+this program was made with the intention of helping me to learn a new language!
+

@@ -1,0 +1,31 @@
+
+COMO CONFIGURAR:
+
+Basicamente você ira precisar de um arquivo txt chamado "DicionarioLista.txt" 
+no seu diretório documentos,caso contrário não ira funcionar.
+
+Se ficou confuso,abra a pasta passos e siga as imagens,ao final vai haver um
+arquivo txt idêntico ao citado acima,copie e cole o no diretório documentos.
+
+COMO USAR:
+
+Basicamente você pode adicionar palavras,e suas traduções.Clicando em salvar
+o programa ira gravar em um arquivo txt chamado "DicionarioLista.txt".
+
+Você também pode buscar por alguma palavra que você armazenou anteriormente.
+O programa de forma rápida ira retornar na tela o resultado.
+
+Você também pode excluir, tanto digitando algo na barra abaixo da lista,quanto
+selecionando e apertando em remover.
+
+COISAS DO FUTURO:
+
+A lista ao lado,chamada descrição futuramente estara funcional,para que você
+possa não só armazenar as palavras e traduções mas também suas descrições
+pessoais sobre elas.
+
+
+Desde já,espero que faça bom uso do programa,e que ele lhe ajude muito.Já que
+este programa foi feito com o intuito de me ajudar a aprender uma nova língua!
+
+
